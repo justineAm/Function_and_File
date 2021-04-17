@@ -19,6 +19,6 @@
         
     }
     
-    reverseHalf("  ap opawg an na tub heheheheheh!! EKOJ !!OPAWG OYALEV NOSAJ NAE   ")
+    reverseHalf("  AMONG MAESTRONG BUT AN NA GWAPONG EAN JASON VELAYO  ");
 
 ?>
