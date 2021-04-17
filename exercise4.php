@@ -9,7 +9,7 @@
         $countN = substr_count($name, 'N'); 
       
         
-        $countName = strlen($name)-1;
+        $countName = strlen($name);
         
         if(($countE + $countA + $countN)>=3){
             if((($countE + $countA +$countN)*$countName)%6==0){
