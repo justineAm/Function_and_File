@@ -19,6 +19,6 @@
         
     }
     
-    reverseHalf("  !!EKOJ !!OPAWG OYALEV NOSAJ NAE  ap opawg an na tub heheheheheh ")
+    reverseHalf("  ap opawg an na tub heheheheheh!! EKOJ !!OPAWG OYALEV NOSAJ NAE   ")
 
 ?>
