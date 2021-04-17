@@ -12,7 +12,7 @@ function fileLine($filename,$lineNumber){
             } 
         } 
         fclose($fh) or die($php_errormsg);
-        echo "The text of the line $desired_line of the text file is : ";
+        echo "The text of the line $lineNumber of the text file is : ";
         echo "<br>";
         print "<h3>$s</h3>"; 
    
