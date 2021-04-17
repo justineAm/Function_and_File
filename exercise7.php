@@ -9,7 +9,7 @@
             //echo $reversedSTR;
             $stringHalflenght = intval(strlen($string)/2);
 
-            $half = substr($reversedSTR,$stringHalflenght);
+            $half = substr($string,$stringHalflenght);
             echo "<br><h2>The Half of the reverse string is :</h2><br>";
             echo "<h1>$half<h1>";
            
