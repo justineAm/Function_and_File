@@ -23,6 +23,6 @@
             echo "<h1>$name is DI SURE! <br><br>OUY WALANG TRUST!!</h1>";
         }
     }
-    testLoyalty("EAN JASON VELAYO");
+    testLoyalty(" EAN JASON VELAYO ");
 
 ?>
