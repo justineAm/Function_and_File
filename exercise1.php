@@ -3,7 +3,7 @@
 <?php
 function fileLine($filename,$lineNumber){
     $lines = $filename;
-    $desired_line = $lineNumber;
+    $desired_line = $lineNumber-1;
     $line_counter = 0; 
      $fh = fopen('mytext.txt','r') or die($php_errormsg);
       while ((! feof($fh)) && ($line_counter <= $desired_line)) {
