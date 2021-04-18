@@ -1,6 +1,7 @@
 <?php
 
     function reverseHalf($string){
+        
         $strLenght = strlen($string);
         echo "<h2>$strLenght is the lenght of the string !!</h2>";
         $reversedSTR = strrev($string);
